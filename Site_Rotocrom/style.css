@@ -1,0 +1,58 @@
+header{
+    margin: 0;
+}
+
+body{
+    margin: 0;
+}
+
+.banner{
+    background-color: #677f93;
+}
+
+html, body {
+    height: 100%;
+}
+
+.div_menu{
+    background-color: rgba(234, 234, 234, 0.634);
+}
+
+.menu{
+    font-weight: bold;
+    transition: 0.4s;
+    background-color: rgba(234, 234, 234, 0.634);
+}
+
+.menu:hover{
+    background-color: rgba(13, 142, 254, 0.176);
+    color: #677f93
+}
+
+.link{
+    text-decoration: none;
+}
+
+.link:hover{
+    color: #677f93
+}
+
+.link:visited{
+    color: black;
+}
+
+.link:active{
+    color: #677f93
+}
+
+
+.texto_contatos{
+    font-weight: bold;
+    color: black;
+}
+
+.fundo_contatos{
+    padding: 1px;
+    border-radius: 10px;
+    background-color: rgba(234, 234, 234, 0.102);
+}
