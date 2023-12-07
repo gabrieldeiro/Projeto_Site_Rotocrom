@@ -61,12 +61,23 @@ html, body {
     background-color: rgba(13, 142, 254, 0.276);
 }
 
-.fundo_servicos{
+.fundo_subNormal{
     padding: 5px 100px 5px 100px;
     border-radius: 5px;
     background-color: rgba(13, 142, 254, 0.276);
     font-weight: bold;
 
+}
+
+.fundo_subInvertido{
+    padding: 5px 100px 5px 100px;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.726);
+    font-weight: bold;
+}
+
+.fundo_azul{
+    background-color: rgba(13, 142, 254, 0.453);
 }
 
 .box1{
@@ -99,7 +110,12 @@ html, body {
     position: absolute;
 }
 
-.box_texto{
-    background-color: #677f93;
-
+.fundo_shadow{
+    background-color: #00000023;
 }
+
+.esfumacado{
+    box-shadow: 2px 2px 10px black ;
+}
+
+
