@@ -1,0 +1,14 @@
+-Fixar Topo.
+-Menu de 3 barras (media only screen).
+
+REVISÃO
+-Textos(fonts, cores, tamanhos...).
+-Icon do site.
+-Cores (trabalhar com uma palheta de cor).
+
+===============================================================
+-Colocar descrições em cada tipo de serviço (ou não).
+-Colocar os clientes (logo) em destaque no site.
+-Necessidade de um botão (Entre em contato).
+	Será necessário um formulario para entrar em contato. (sugestão: Nome e Mensagem).
+ 
