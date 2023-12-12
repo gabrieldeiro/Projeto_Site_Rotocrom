@@ -8,7 +8,40 @@ REVISÃO
 
 ===============================================================
 -Colocar descrições em cada tipo de serviço (ou não).
+Cilindro para rotogravura(cobre)
+
+borracha
+	gravaçãoi direta de cilindro de borrachas para rotogravura e flexo
+
+ferro
+	pode ser para embossing ou gravação mecanica
+
+niquel
+	reprodução/gravação de rotogravura
+
+
+ESPECIAIS
+Cilindro de cobre para 
+
+embossing . "especiais"
+
+MECANICO
+
+SOBRE COBRE OU SOBRE FERRO*
+Cilindro de cobre para GRAVAÇÃO MECANICA
+
+Cilindro de FERRO para GRAVAÇÃO MECANICA
+
+
+-EVENTOS
+1ºCHAMADO
+2ºFOTOS E INFORMAÇÃO
+
 -Colocar os clientes (logo) em destaque no site.
+
+
 -Necessidade de um botão (Entre em contato).
 	Será necessário um formulario para entrar em contato. (sugestão: Nome e Mensagem).
+
+
  

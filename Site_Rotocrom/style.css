@@ -1,5 +1,6 @@
 header{
     margin: 0;
+    
 }
 
 body{
@@ -16,13 +17,13 @@ html, body {
 }
 
 .div_menu{
-    background-color: rgba(234, 234, 234, 0.634);
+    background-color: rgb(234, 234, 234);
 }
 
 .menu{
     font-weight: bold;
     transition: 0.4s;
-    background-color: rgba(234, 234, 234, 0.634);
+    background-color: rgb(234, 234, 234);
 }
 
 .menu:hover{
@@ -135,11 +136,34 @@ html, body {
     bottom: 35px;
     border-radius: 25px;
     text-align: center;
-    line-height: 37px; /*para o "texto" ficar no meio da linha, o a "altura da linha" deve ser do mesmo tamanho da altura do "objeto"*/
+    line-height: 37px; 
     font-size: 30px;
+    color: white;
+}
+
+.icones_contato{
+    width: 25px;
+    height: 25px;
+}
+
+.icones_contato_moldura{
+    padding: 10px;
+    border-radius: 15px;
+    background-color: rgba(13, 142, 254, 0.276);
     color: white;
 }
 
 #mapa iframe{
     width: 100%;
 }
+
+.box_sustentavel{
+    padding-bottom: 0px;
+}
+
+@media screen and (max-width: 500px) {
+    .box_sustentavel{
+        padding-bottom: 15px;
+    }
+}
+
