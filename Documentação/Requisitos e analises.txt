@@ -1,6 +1,3 @@
--Fixar Topo.
--Menu de 3 barras (media only screen).
-
 REVISÃO
 -Textos(fonts, cores, tamanhos...).
 -Icon do site.

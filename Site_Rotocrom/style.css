@@ -24,6 +24,7 @@ html, body {
     font-weight: bold;
     transition: 0.4s;
     background-color: rgb(234, 234, 234);
+    padding: 7px;
 }
 
 .menu:hover{
@@ -51,6 +52,7 @@ html, body {
 .texto_contatos{
     font-weight: bold;
     color: black;
+    padding-top: 19px;
 }
 
 .texto_sombra{
@@ -159,6 +161,34 @@ html, body {
 
 .box_sustentavel{
     padding-bottom: 0px;
+}
+
+.sustentabilidade{
+    font-size: 23px;
+}
+
+@media screen and (max-width: 500px){
+    .menu{
+        font-weight: bold;
+        transition: 0.4s;
+        background-color: rgb(234, 234, 234);
+        padding: 5px;
+    }
+}
+
+@media screen and (max-width: 500px){
+    .texto_contatos{
+        font-weight: bold;
+        color: black;
+        padding: 0;
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (max-width: 500px){
+    .sustentabilidade{
+        font-size: 18px;
+    }
 }
 
 @media screen and (max-width: 500px) {
