@@ -1,0 +1,23 @@
+(embossing gravado)0044 > 45
+(embossing gravado(rotocrom)0071 > 76
+(cilindro de embossing)0090
+(cilindro de embossing)0094 > 97
+(torre Rotocrom)0123 (toda sequencia)
+
+(Mecânica)0127
+(Mecânica)0130 > 0133
+
+(chão)0143
+
+(níquel)9865 > 66
+
+(cobre gravando)9870 / 9883
+(cobre gravado)9897 / 9903
+
+(borracha gravando)9923 > 9930
+(borracha gravada)9982* / 9995*
+
+(banho de cobre)9940
+
+(polimento) 9976
+

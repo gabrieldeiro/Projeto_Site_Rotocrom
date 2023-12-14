@@ -8,6 +8,10 @@ body{
     font-family:Arial;
 }
 
+.ajuste_logo{
+    margin-left: 80px;
+}
+
 .banner{
     background-color: rgba(234, 234, 234, 0.634);
 }
@@ -32,8 +36,10 @@ html, body {
     color: #677f93
 }
 
+
 .link{
     text-decoration: none;
+    color: black;
 }
 
 .link:hover{
@@ -68,7 +74,8 @@ html, body {
 .fundo_subNormal{
     padding: 5px 100px 5px 100px;
     border-radius: 5px;
-    background-color: rgba(13, 142, 254, 0.276);
+    background-color: #073479;
+    color: white;
     font-weight: bold;
 
 }
@@ -76,12 +83,13 @@ html, body {
 .fundo_subInvertido{
     padding: 5px 100px 5px 100px;
     border-radius: 5px;
-    background-color: rgba(255, 255, 255, 0.726);
+    background-color: white;
+    color: #073479;
     font-weight: bold;
 }
 
 .fundo_azul{
-    background-color: rgba(7, 53, 93, 0.875);
+    background-color: #073479;
 }
 
 .box1{
@@ -165,6 +173,12 @@ html, body {
 
 .sustentabilidade{
     font-size: 23px;
+}
+
+@media screen and (max-width:500px){
+    .ajuste_logo{
+        margin-left: 111px;
+    }
 }
 
 @media screen and (max-width: 500px){

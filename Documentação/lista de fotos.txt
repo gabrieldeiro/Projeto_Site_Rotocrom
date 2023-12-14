@@ -1,0 +1,23 @@
+Cilindro de cobre
+	TIPO DE GRAVAÇÃO:
+	Rotogravura (gravação eletronica)****
+	Gravação mecânica******
+	Embossing*****
+
+Cilindro de borracha
+	TIPO DE GRAVAÇÃO:
+	Rotogravura (gravação eletronica)*******
+
+Cilindro de ferro
+	TIPO DE GRAVAÇÃO:
+	Rotogravura (gravação eletronica)
+	Gravação mecânica
+	Embossing
+
+Camisa de Níquel
+	TIPO DE GRAVAÇÃO:
+	Rotogravura (gravação eletronica) *******
+	
+Foto pirincipal (cilindro em gravação)*******
+
+Fotos aéreas da Rotocrom (2x ou 3x)
