@@ -24,34 +24,45 @@ html, body {
     background-color: rgb(234, 234, 234);
 }
 
-.menu{
+.icone{
+    width: 28px;
+    height: 20px;
+}
+
+/* .menu{
     font-weight: bold;
     transition: 0.4s;
     background-color: rgb(234, 234, 234);
     padding: 7px;
+} */
+
+.menu{
+    font-weight: bold;
+    transition: 0.4s;
+    background-color: #1e226a;
+    padding: 7px;
 }
 
+
+
 .menu:hover{
-    background-color: rgba(13, 142, 254, 0.276);
-    color: #677f93
+    background-color: white;
+    color: #1e226a;
 }
 
 
 .link{
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
 .link:hover{
-    color: #677f93
+    color: #1e226a;
 }
 
-.link:visited{
-    color: black;
-}
 
-.link:active{
-    color: #677f93
+.link:visited:hover{
+    color: #1e226a;
 }
 
 
@@ -160,10 +171,17 @@ html, body {
     color: white;
 }
 
+
 .icones_contato{
-    width: 25px;
-    height: 25px;
+    width: 22px;
+    height: 19px;
 }
+
+.icones_contato_geo{
+    width: 20px;
+    height: 22px;
+}
+
 
 .icones_contato_moldura{
     padding: 10px;
