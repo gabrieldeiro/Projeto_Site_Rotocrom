@@ -1,0 +1,18 @@
+IDEIAS FUTURAS:
+
+Area de TRABALHE CONOSCO:
+-Um lugar no site parar envio de curriculo.
+
+Paginas individuais para cada tipo de serviço:
+-Cada serviço tera uma pagina propria com um pouco mais de especificações e exemplos de trabalho
+(com a permissão do cliente envolvido)
+
+Barra com logo de clientes:
+-Um slide com a logo dos clientes mais interessantes, para passar mais credibilidade na empresa.
+(com a permissão do mesmo)
+
+Layout diferente para o mobile
+-Aplicar um outro tipo de layour mais intuitivo para aparelhos mobile.
+
+Modernização do site
+-Modernizar o site deixando mais fluido e com design mais refinado.
