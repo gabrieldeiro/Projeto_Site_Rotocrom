@@ -29,12 +29,6 @@ html, body {
     height: 20px;
 }
 
-/* .menu{
-    font-weight: bold;
-    transition: 0.4s;
-    background-color: rgb(234, 234, 234);
-    padding: 7px;
-} */
 
 .menu{
     font-weight: bold;
@@ -42,7 +36,6 @@ html, body {
     background-color: #1e226a;
     padding: 7px;
 }
-
 
 
 .menu:hover{
@@ -65,6 +58,35 @@ html, body {
     color: #1e226a;
 }
 
+/* --------------------------------  */
+
+.menu2{
+    font-weight: bold;
+    transition: 0.4s;
+    background-color: rgb(234, 234, 234);
+    padding: 7px;
+}
+
+.menu2:hover{
+    background-color: rgba(13, 142, 254, 0.276);
+    color: #1e226a;
+}
+
+.link2{
+    text-decoration: none;
+    color: black;
+}
+
+.link2:hover{
+    color: #1e226a;
+}
+
+
+.link2:visited:hover{
+    color: black;
+}
+
+/* --------------------------------  */
 
 .texto_contatos{
     font-weight: bold;
