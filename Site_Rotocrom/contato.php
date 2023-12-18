@@ -13,7 +13,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     echo 'Por favor, preencha todos os campos do formulário.';
   } else {
     // Envia o e-mail
-    $para = 'gabrieldeiro2018@gmail.com';
+    $para = 'rotocrom@rotocrom.com.br';
     $cabecalho = "From: $nome <$email>\r\n";
     $cabecalho .= "Reply-To: $email\r\n";
     $cabecalho .= "Content-Type: text/html; charset=utf-8\r\n";

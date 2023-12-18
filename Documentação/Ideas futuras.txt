@@ -14,5 +14,5 @@ Barra com logo de clientes:
 Layout diferente para o mobile
 -Aplicar um outro tipo de layour mais intuitivo para aparelhos mobile.
 
-Modernização do site
--Modernizar o site deixando mais fluido e com design mais refinado.
+Modernização do site:
+-Aplicar mais efeitos simples e com detalhes mais refinados para melhor a experiencia do site.
